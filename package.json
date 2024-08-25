@@ -1,0 +1,12 @@
+{
+    "name": "{{ .Name }}",
+    "version": "0.1.0",
+    "description": "{{ .Description }}",
+    "private": true,
+    "workspaces": [
+        "website"
+    ],
+    "devDependencies": {
+
+    }
+}
